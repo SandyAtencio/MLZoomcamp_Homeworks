@@ -8,7 +8,7 @@ based on the Machine Learning Bookcamp book, by [Alexey Grigorev.](https://githu
 | ID | Module | Status | Deadline |
 | -- | -- | -- | -- |
 | 01 | Introduction to Machine Learning | :thumbsup: | 12/09/2022 |
-| 02 | Machine Learning for Regression | :x: | 19/09/2022 |
+| 02 | Machine Learning for Regression | :thumbsup: | 19/09/2022 |
 | 03 | Machine Learning for Classification | :x: | 26/09/2022 |
 | 04 | Evaluation Metrics for Classification | :x: | 03/10/2022 |
 | 05 | Deploying Machine Learning Models| :x: | 10/10/2022 |
